@@ -48,7 +48,7 @@ function BmiCalc() {
           setInfo("Obez");
           setDietList(<DietList4 />);
         }
-      };
+      }; 
 
     
     return (
