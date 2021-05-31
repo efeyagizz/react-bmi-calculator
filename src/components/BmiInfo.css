@@ -1,0 +1,13 @@
+
+.bmiInfo {
+    text-align: center;
+}
+
+.bmiInfo > h1 {
+    font-family: serif;
+}
+
+.bmiInfo > p {
+    font-weight: 500;
+    font-family: cursive;
+}
